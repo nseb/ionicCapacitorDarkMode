@@ -10,7 +10,7 @@
   },
   "source": {
     "git": "https://github.com/ionic-team/capacitor",
-    "tag": "2.4.0"
+    "tag": "3.2.0"
   },
   "platforms": {
     "ios": "12.0"
